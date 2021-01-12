@@ -1,0 +1,8 @@
+/* // them mơi */
+.product-list .product-container {
+    border: 1px solid #eaeaea;
+    overflow: hidden;
+    padding-bottom: 10px;
+    width: 250px;
+    height: 400px;
+}
